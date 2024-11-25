@@ -60,6 +60,16 @@
 
 
 
+// Bonus
+
+
+// let num1 = +prompt("Birinshi san engiz")
+// let num2 = +prompt("Ekinshi san engiz")
+
+
+
+
+
 
 
 
